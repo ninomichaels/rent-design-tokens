@@ -1075,8 +1075,12 @@
         }
       },
       "pdp": {
-        "highlights-pill": {
+        "highlights-pill-bg": {
           "value": "{color.gray.100}",
+          "type": "color"
+        },
+        "highlights-pill-text": {
+          "value": "{color.text.graybg.body}",
           "type": "color"
         }
       }
