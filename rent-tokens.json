@@ -1073,6 +1073,12 @@
             "type": "color"
           }
         }
+      },
+      "pdp": {
+        "highlights-pill": {
+          "value": "{color.gray.100}",
+          "type": "color"
+        }
       }
     },
     "rounded": {
@@ -1381,6 +1387,18 @@
         },
         "type": "typography"
       }
+    },
+    "cta-height": {
+      "value": "40px",
+      "type": "sizing"
+    },
+    "rounded-pill": {
+      "value": "100px",
+      "type": "borderRadius"
+    },
+    "cta-secondary-border": {
+      "value": "2px",
+      "type": "borderWidth"
     }
   },
   "$themes": []
