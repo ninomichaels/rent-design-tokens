@@ -558,7 +558,7 @@
       "type": "sizing"
     },
     "headline": {
-      "gtflexa": {
+      "copy": {
         "225": {
           "value": {
             "fontFamily": "{font-headline}",
@@ -664,7 +664,7 @@
           "type": "typography"
         }
       },
-      "inter": {
+      "content": {
         "100": {
           "value": {
             "fontFamily": "{font-body}",
