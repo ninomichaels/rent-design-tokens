@@ -353,16 +353,6 @@
         "value": "#000",
         "type": "color",
         "description": "black"
-      },
-      "text": {
-        "body": {
-          "value": "{color.gray.500}",
-          "type": "color"
-        },
-        "headline": {
-          "value": "{color.black}",
-          "type": "color"
-        }
       }
     },
     "rounded": {
