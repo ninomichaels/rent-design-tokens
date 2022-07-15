@@ -125,8 +125,9 @@
     "color": {
       "indigo": {
         "100": {
-          "value": "#F4F6FF",
-          "type": "color"
+          "value": "#f4f6ff",
+          "type": "color",
+          "description": "#F4F6FF"
         },
         "200": {
           "value": "#E7EBFF",
@@ -338,11 +339,6 @@
           "value": "#841923",
           "type": "color"
         }
-      },
-      "transparent": {
-        "value": "rgba(0,0,0,0)",
-        "type": "color",
-        "description": "transparent"
       },
       "white": {
         "value": "#fff",
