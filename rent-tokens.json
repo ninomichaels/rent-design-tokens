@@ -125,9 +125,8 @@
     "color": {
       "indigo": {
         "100": {
-          "value": "#f4f6ff",
-          "type": "color",
-          "description": "#F4F6FF"
+          "value": "#F4F6FF",
+          "type": "color"
         },
         "200": {
           "value": "#E7EBFF",
@@ -202,7 +201,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#582797",
+          "value": "#8D4BDF",
           "type": "color"
         },
         "600": {
