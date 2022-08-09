@@ -358,6 +358,10 @@
       "button": {
         "value": "4px",
         "type": "borderRadius"
+      },
+      "badge": {
+        "value": "3px",
+        "type": "borderRadius"
       }
     },
     "font-body": {
