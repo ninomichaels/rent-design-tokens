@@ -364,11 +364,11 @@
         "type": "borderRadius"
       }
     },
-    "font-body": {
+    "font-family-body": {
       "value": "Inter",
       "type": "fontFamilies"
     },
-    "font-headline": {
+    "font-family-headline": {
       "value": "GT Flexa",
       "type": "fontFamilies"
     },
